@@ -91,7 +91,7 @@
     "node-fetch": "^3.3.2",
     "ws": "^8.18.3",
     "yaml": "^2.8.0",
-    "zod": "3.25.76"
+    "zod": "4.0.17"
   },
   "devDependencies": {
     "@types/bun": "latest",

@@ -3,7 +3,7 @@
 # Using official Node.js image for maximum deployment platform compatibility
 # =============================================================================
 
-FROM node:22-alpine
+FROM node:25-alpine
 
 # Install system dependencies for security and signal handling
 RUN apk add --no-cache \

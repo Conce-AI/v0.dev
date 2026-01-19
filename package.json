@@ -97,7 +97,7 @@
     "@types/bun": "latest",
     "@types/node": "^24.1.0",
     "@types/ws": "^8.18.1",
-    "@vitest/ui": "^3.2.4",
+    "@vitest/ui": "^4.0.17",
     "vitest": "^3.2.4"
   },
   "peerDependencies": {

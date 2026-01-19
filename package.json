@@ -98,7 +98,7 @@
     "@types/node": "^24.1.0",
     "@types/ws": "^8.18.1",
     "@vitest/ui": "^3.2.4",
-    "vitest": "^3.2.4"
+    "vitest": "^4.0.17"
   },
   "peerDependencies": {
     "typescript": "^5.8.3"
